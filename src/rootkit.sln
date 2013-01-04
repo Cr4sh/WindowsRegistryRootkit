@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "rootkit_installer", "rootkit_installer\rootkit_installer.vcproj", "{8A5187B5-EA41-4C34-8D5B-4213A281AAFB}"
+	ProjectSection(ProjectDependencies) = postProject
+		{3EEAAF60-1BCB-4114-8B75-168421CD9253} = {3EEAAF60-1BCB-4114-8B75-168421CD9253}
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "rootkit_driver", "rootkit_driver\rootkit_driver.vcproj", "{3EEAAF60-1BCB-4114-8B75-168421CD9253}"
+	ProjectSection(ProjectDependencies) = postProject
+		{07D07B92-3F3F-4054-B224-E9D8324F1FAD} = {07D07B92-3F3F-4054-B224-E9D8324F1FAD}
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "meterpreter", "meterpreter\meterpreter.vcproj", "{07D07B92-3F3F-4054-B224-E9D8324F1FAD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8A5187B5-EA41-4C34-8D5B-4213A281AAFB}.Debug|Win32.ActiveCfg = Debug|Win32
+		{8A5187B5-EA41-4C34-8D5B-4213A281AAFB}.Debug|Win32.Build.0 = Debug|Win32
+		{8A5187B5-EA41-4C34-8D5B-4213A281AAFB}.Release|Win32.ActiveCfg = Release|Win32
+		{8A5187B5-EA41-4C34-8D5B-4213A281AAFB}.Release|Win32.Build.0 = Release|Win32
+		{3EEAAF60-1BCB-4114-8B75-168421CD9253}.Debug|Win32.ActiveCfg = Debug|Win32
+		{3EEAAF60-1BCB-4114-8B75-168421CD9253}.Debug|Win32.Build.0 = Debug|Win32
+		{3EEAAF60-1BCB-4114-8B75-168421CD9253}.Release|Win32.ActiveCfg = Release|Win32
+		{3EEAAF60-1BCB-4114-8B75-168421CD9253}.Release|Win32.Build.0 = Release|Win32
+		{07D07B92-3F3F-4054-B224-E9D8324F1FAD}.Debug|Win32.ActiveCfg = Debug|Win32
+		{07D07B92-3F3F-4054-B224-E9D8324F1FAD}.Debug|Win32.Build.0 = Debug|Win32
+		{07D07B92-3F3F-4054-B224-E9D8324F1FAD}.Release|Win32.ActiveCfg = Release|Win32
+		{07D07B92-3F3F-4054-B224-E9D8324F1FAD}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
