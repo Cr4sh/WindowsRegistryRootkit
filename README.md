@@ -2,13 +2,10 @@
 ******************************************************************************
 
   Kernel rootkit, that lives inside the Windows registry value data
-  
   By Oleksiuk Dmytro (aka Cr4sh)
   
   http://twitter.com/d_olex
-  
   http://blog.cr4.sh
-  
   cr4sh0@gmail.com
 
 ******************************************************************************
