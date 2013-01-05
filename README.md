@@ -1,12 +1,12 @@
 
 ******************************************************************************
 
-  Kernel rootkit, that lives inside the Windows registry value data
-  By Oleksiuk Dmytro (aka Cr4sh)
+  Kernel rootkit, that lives inside the Windows registry value data.  
+  By Oleksiuk Dmytro (aka Cr4sh)  
   
-  http://twitter.com/d_olex
-  http://blog.cr4.sh
-  cr4sh0@gmail.com
+  http://twitter.com/d_olex  
+  http://blog.cr4.sh  
+  cr4sh0@gmail.com  
 
 ******************************************************************************
  
@@ -26,8 +26,5 @@ Features:
  ![foo](http://dl.dropbox.com/u/22903093/WindowsRegistryRootkit-execution.png)
 
  
-This rootkit was originally presented at the ZeroNights 2012 conference during my talk.
-
+This rootkit was originally presented at the ZeroNights 2012 conference during my talk.  
 See the slides and videos for more information: http://dl.dropbox.com/u/22903093/Applied-anti-forensics.pdf
- 
- 
