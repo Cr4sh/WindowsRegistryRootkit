@@ -26,6 +26,9 @@
   
   * Working on Windows 7 (SP0, SP1) x86.
 
+
+ ![foo](http://dl.dropbox.com/u/22903093/WindowsRegistryRootkit-execution.png)
+
  
  This rootkit was originally presented at the ZeroNights 2012 conference
  during my talk.
