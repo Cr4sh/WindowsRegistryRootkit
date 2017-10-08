@@ -23,8 +23,8 @@ Features:
  * Working on Windows 7 (SP0, SP1) x86.
 
 
- ![foo](http://dl.dropbox.com/u/22903093/WindowsRegistryRootkit-execution.png)
+ ![foo](https://github.com/Cr4sh/blog/tree/master/windows-registry-rootkit/WindowsRegistryRootkit-execution.png)
 
  
 This rootkit was originally presented at the ZeroNights 2012 conference during my talk.  
-See the slides and videos for more information: http://dl.dropbox.com/u/22903093/Applied-anti-forensics.pdf
+See the slides and videos for more information: https://github.com/Cr4sh/blog/tree/master/windows-registry-rootkit/Applied-anti-forensics.pdf
